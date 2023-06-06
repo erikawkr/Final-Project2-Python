@@ -1,0 +1,7 @@
+PYTHON FOR Data Science
+Nama	: Erika Taniya Devi Winckler
+Kelas	: PYTN-KS-014
+Kode	: PYTN-KS14-020
+
+Berikut link github final project 2.
+https://github.com/erikawkr/Final-Project2-Python
